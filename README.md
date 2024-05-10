@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there! I'm a web developer based in Brasília, with 4 years of experience in digital product creation. Over the past few years, I've specialized in Node.js and React, focusing on web application development. Previously, I worked as a UX Designer, mainly focusing on prototyping and design systems, as well as conducting research and planning for projects."</p>
+<p align="left">Hey there! I'm a web developer based in Brasília, with 4 years of experience in digital product creation. Over the past few years, I've specialized in Node.js and React, focusing on web application development. Previously, I worked as a UX Designer, mainly focusing on prototyping and design systems, as well as conducting research and planning for projects.</p>
 
 ###
 
